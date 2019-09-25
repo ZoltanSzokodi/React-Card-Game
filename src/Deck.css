@@ -4,6 +4,10 @@
   align-items: center;
 }
 
-.Deck button {
-  margin-top: 1em;
+.Deck-cardarea {
+  margin-top: 80px;
 }
+
+/* .Deck button {
+  margin-top: 1em;
+} */
