@@ -1,0 +1,9 @@
+.Deck {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Deck button {
+  margin-top: 1em;
+}
